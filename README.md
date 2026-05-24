@@ -2,24 +2,33 @@
 
 # UNKNOWNCOER
 
-## 💫 Introduction
-I'm UNKNOWNCOER, a student developer, UI developer, and designer.  
-I enjoy creating clean interfaces and experimenting with web development projects.
+I'm a student developer, UI developer, and designer based in Malaysia.  
+I enjoy building clean interfaces and exploring web development projects.
 
-Currently, I'm working on building a game using HTML and CSS.
+Currently, I'm developing a browser game using HTML and CSS.
 
 ---
 
 ## 🛠️ Tools & Tech
-- HTML
-- CSS
-- :contentReference[oaicite:0]{index=0}
-- :contentReference[oaicite:1]{index=1}
+- HTML & CSS  
+- Visual Studio Code  
+- XAMPP  
+- CapCut  
+- Google Chrome  
+- GitHub  
+
+---
+
+## 🚀 Goals
+- Build web-based games and improve UI/UX skills  
+- Learn advanced frontend development  
+- Work in a gaming company in the future  
 
 ---
 
 ## 🌟 About Me
-- 🎮 Working on a web-based game project
-- 🎨 Interested in UI design and creative layouts
-- 📚 Still learning and improving my development skills
-- 💬 Message me on Discord
+- 🎧 Interested in K-pop  
+- 🎮 Enjoy fast-paced and strategy-based games (Call of Duty, Counter-Strike 2, and Chess)
+- 🎨 Like clean and simple designs  
+- 📚 Always learning and improving  
+- 💬 Message me on Discord  
