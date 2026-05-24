@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-# UNKNOWNCOER
-
 I'm a student developer, UI developer, and designer based in Malaysia.  
 I enjoy building clean interfaces and exploring web development projects.
+My goals is to work at a gaming company such as activision in the future
 
 Currently, I'm developing a browser game using HTML and CSS.
 
@@ -16,13 +15,6 @@ Currently, I'm developing a browser game using HTML and CSS.
 - CapCut  
 - Google Chrome  
 - GitHub  
-
----
-
-## 🚀 Goals
-- Build web-based games and improve UI/UX skills  
-- Learn advanced frontend development  
-- Work in a gaming company in the future  
 
 ---
 
