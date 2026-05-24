@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**UNKNOWNCOER/UNKNOWNCOER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# UNKNOWNCOER
 
-Here are some ideas to get you started:
+## 💫 Introduction
+I'm UNKNOWNCOER, a student developer, UI developer, and designer.  
+I enjoy creating clean interfaces and experimenting with web development projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm working on building a game using HTML and CSS.
+
+---
+
+## 🛠️ Tools & Tech
+- HTML
+- CSS
+- :contentReference[oaicite:0]{index=0}
+- :contentReference[oaicite:1]{index=1}
+
+---
+
+## 🌟 About Me
+- 🎮 Working on a web-based game project
+- 🎨 Interested in UI design and creative layouts
+- 📚 Still learning and improving my development skills
+- 💬 Message me on Discord
